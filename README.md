@@ -14,6 +14,29 @@
 
 [ESLint | 代码规范检查和格式化工具](https://eslint.org/)
 
+## 镜像源
+
+[清华大学镜像](https://pypi.tuna.tsinghua.edu.cn/simple/)
+
+[阿里云镜像](http://mirrors.aliyun.com/pypi/simple/)
+
+[中科大镜像](https://pypi.mirrors.ustc.edu.cn/simple/)
+
+[豆瓣镜像](http://pypi.douban.com/simple/)
+
+## NPM 镜像源
+
+[淘宝 NPM 镜像](registry.npmmirror.com/ )（中国最大的 npm 镜像源，由阿里巴巴集团维护）
+
+[腾讯云 NPM 镜像](mirrors.cloud.tencent.com/npm/)
+
+[cnpmjs 镜像](r.cnpmjs.org/) （又名 cnpm，是由淘宝团队维护的另一个 npm 镜像服务）
+
+[网易 NPM 镜像](npm.coding.net/)
+
+[环境云 NPM 镜像](mirror.envcloud.cn/repository/)
+
+[七牛云 NPM 镜像](npm.qiniu.com/)
 
 ## 调试与抓包工具
 
