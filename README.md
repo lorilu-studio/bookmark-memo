@@ -1,5 +1,5 @@
-# bookmark-memo
-技术资源与工具分类手册
+# 技术资源与工具分类手册
+
 
 ## 前端代码规范
 [Tgideas | 腾讯前端代码规范 值得参考](https://tgideas.qq.com/doc/index.html)
@@ -50,9 +50,29 @@
 
 ## 图形与可视化
 
-[fabricjs | Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
+### Canvas
 
-[techbrood | Three.js 中文教程](https://www.techbrood.com/threejs/docs/)
+- [fabricjs | Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
+
+### Threejs 
+
+- [techbrood | Three.js 中文教程](https://www.techbrood.com/threejs/docs/)
+- [郭隆邦的技术博客](http://www.yanhuangxueyuan.com/)
+- [Threejs零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
+- [WebGL零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/WebGL/)
+- [OpenGL GLSL 内建变量与常用内置函数](https://blog.csdn.net/haiping1224746757/article/details/107369351/)
+
+##### 相关书籍
+[《HTML5 Canvas核心技术》](https://github.com/linghuam/boutique-books/blob/master/b04-%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/HTML5Canvas%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF-%E5%9B%BE%E5%BD%A2%E5%8A%A8%E7%94%BB%E4%B8%8E%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91.pdf)
+
+[《WebGL高级编程：开发Web3D图形》](https://github.com/linghuam/boutique-books/blob/master/b04-%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/WebGL%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%BC%80%E5%8F%91Web3D%E5%9B%BE%E5%BD%A2.pdf)
+
+[《计算机图形学》](https://github.com/linghuam/boutique-books/blob/master/b04-%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%AC%AC4%E7%89%88.pdf)
+
+[《WebGL编程指南》](https://github.com/linghuam/boutique-books/blob/master/b04-%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/WebGL%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+
+[《3D游戏与计算机图形学中的数学方法》](https://github.com/linghuam/boutique-books/blob/master/b04-%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/3D%E6%B8%B8%E6%88%8F%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95_2Ed_CN.pdf)
+
 
 
 ## 后端与工具库
